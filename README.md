@@ -16,7 +16,7 @@ This project is a serverless text-to-speech application that allows users to inp
 
 ## Project Architecture
 
-![Project Architecture Diagram](/docs/text-to-speech-diagram.png) 
+![Project Architecture Diagram](./docs/text-to-speech.png) 
 
 1. **Frontend (Hosted on Amazon S3)**: A web page where users enter text and choose a voice for speech synthesis.
 2. **API Gateway**: Exposes a REST API for the frontend to interact with Lambda securely.
